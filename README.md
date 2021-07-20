@@ -1,2 +1,2 @@
-# Tutorials-Movie-Recommenders-
+# Movie-Recommenders-Tutorials
 DataCamp tutorials on how to build a simple recommender and a content-based recommender based on the plot description 
